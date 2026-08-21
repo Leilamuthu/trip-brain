@@ -1,0 +1,25 @@
+{
+  "name": "Trip Brain",
+  "short_name": "Trip Brain",
+  "description": "Your travel companion for Ireland & Spain",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2c3e50",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><text x='50%' y='50%' font-size='120' dominant-baseline='middle' text-anchor='middle' transform='translate(0 10)'>🧠</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 540 720'><rect fill='%23fff' width='540' height='720'/><text x='270' y='360' text-anchor='middle' font-size='100'>🧠</text></svg>",
+      "sizes": "540x720",
+      "type": "image/svg+xml",
+      "form_factor": "narrow"
+    }
+  ]
+}
